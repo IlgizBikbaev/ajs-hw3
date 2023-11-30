@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilgizbikbaev/ajs-hw3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ilgizbikbaev/ajs-hw3.git/issues"
+  },
+  "homepage": "https://github.com/ilgizbikbaev/ajs-hw3.git#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
